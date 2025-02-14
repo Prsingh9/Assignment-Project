@@ -1,0 +1,3 @@
+[submodule "Python/Python_Adv_Projects/ci-cd-python"]
+	path = Python/Python_Adv_Projects/ci-cd-python
+	url = https://github.com/Prsingh9/python-ci-cd
