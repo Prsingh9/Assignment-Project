@@ -1,0 +1,1 @@
+print("Welcome to Javapoint tutorial on Groovy")
