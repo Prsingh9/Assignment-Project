@@ -1,3 +1,6 @@
 [submodule "Python/Python_Adv_Projects/ci-cd-python"]
 	path = Python/Python_Adv_Projects/ci-cd-python
 	url = https://github.com/Prsingh9/python-ci-cd
+[submodule "Groovy/Adv_Projects/log_analysis"]
+	path = Groovy/Adv_Projects/log_analysis
+	url = https://github.com/Prsingh9/Log_analysis
