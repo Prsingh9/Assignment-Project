@@ -4,3 +4,6 @@
 [submodule "Groovy/Adv_Projects/log_analysis"]
 	path = Groovy/Adv_Projects/log_analysis
 	url = https://github.com/Prsingh9/Log_analysis
+[submodule "Groovy/Adv_Projects/api-testing"]
+	path = Groovy/Adv_Projects/api-testing
+	url = https://github.com/Prsingh9/Api-testing
